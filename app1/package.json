@@ -1,0 +1,9 @@
+{
+  "name": "app1",
+  "scripts": {
+    "start": "./cmd.js"
+  },
+  "dependencies": {
+    "@monorepo/pkg1": "file:./../packages/pkg1"
+  }
+}
